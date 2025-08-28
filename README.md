@@ -14,7 +14,8 @@ Ideal but not limited to developers.
 
 ## 📦 Installation
 Clone the repository and install dependencies:
-```bash
+```
 https://github.com/rohan-20/reporter.git
 cd reporter
 pip install -r requirements.txt
+```
